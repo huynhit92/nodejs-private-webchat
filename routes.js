@@ -8,7 +8,7 @@ var gravatar = require('gravatar');
 
 // Export a function, so that we can pass 
 // the app and io instances from the app.js file:
-
+mynode
 module.exports = function(app,io){
 
 	app.get('/', function(req, res){
