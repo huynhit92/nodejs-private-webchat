@@ -23,3 +23,4 @@ home branche
 
 
 create new issue
+delete issue
